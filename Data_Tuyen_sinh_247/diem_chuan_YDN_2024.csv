@@ -1,0 +1,23 @@
+﻿Điểm chuẩn theo phương thức Điểm thi THPT 2024,2024,,,,,
+STT,2024,Mã ngành,Tên ngành,Tổ hợp môn,Điểm chuẩn,Ghi chú
+1,2024,7720101,Y khoa,B00; B08; A00; D07,25.47,
+2,2024,7720201,Dược học,B00; B08; A00; D07,23.6,
+3,2024,7720301A,Điều dưỡng đa khoa,B00; B08; A00; D07,20.9,
+4,2024,7720301B,Điều dưỡng nha khoa,B00; B08; A00; D07,20.6,
+5,2024,7720301C,Điều dưỡng gây mê hồi sức,B00; B08; A00; D07,20,
+6,2024,7720601,Kỹ thuật xét nghiệm y học,B00; B08; A00; D07,20.6,
+7,2024,7720602,Kỹ thuật hình ảnh y học,B00; B08; A00; D07,19,
+8,2024,7720603,Kỹ thuật phục hồi chức năng,B00; B08; A00; D07,21,
+Điểm chuẩn theo phương thức Điểm học bạ 2024,2024,,,,,
+STT,2024,Mã ngành,Tên ngành,Tổ hợp môn,Điểm chuẩn,Ghi chú
+1,2024,7720301A,Điều dưỡng đa khoa,B00; B08; A00; D07,24.99,"TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+2,2024,7720301B,Điều dưỡng nha khoa,B00; B08; A00; D07,24.92,"TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+3,2024,7720301C,Điều dưỡng gây mê hồi sức,B00; B08; A00; D07,24.38,"TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+4,2024,7720601,Kỹ thuật xét nghiệm y học,B00; B08; A00; D07,25.59,"TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+5,2024,7720602,Kỹ thuật hình ảnh y học,B00; B08; A00; D07,24.36,"TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+6,2024,7720603,Kỹ thuật phục hồi chức năng,B00; B08; A00; D07,24.87,"TS có điểm XT bằng ĐC thì ưu tiên thứ tự NV, sau đó là điểm môn Toán"
+Điểm chuẩn theo phương thức Xét tuyển kết hợp 2024,2024,,,,,
+STT,2024,Mã ngành,Tên ngành,Tổ hợp môn,Điểm chuẩn,Ghi chú
+1,2024,7720201,Dược học,B00; B08; A00; D07,23,Xét kết hợp điểm thi tốt nghiệp THPT với CCTA Quốc tế
+2,2024,7720603,Kỹ thuật phục hồi chức năng,B00; B08; A00; D07,19.85,Xét kết hợp điểm thi tốt nghiệp THPT với CCTA Quốc tế
+3,2024,7720101,Y khoa,B00; B08; A00; D07,23.45,Xét kết hợp điểm thi tốt nghiệp THPT với CCTA Quốc tế

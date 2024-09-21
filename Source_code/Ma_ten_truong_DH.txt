@@ -1,0 +1,302 @@
+HNM - Đại học Thủ Đô Hà Nội
+VKU - Đại học Công nghệ Thông tin và Truyền thông Việt Hàn - Đại học Đà Nẵng
+DVX - Đại Học Công Nghệ Vạn Xuân
+MTS - Đại Học Mỹ Thuật TPHCM
+DQT - Đại Học Quang Trung
+YDN - Đại học Kỹ thuật Y Dược Đà Nẵng
+ZNH - Đại học Văn hóa Nghệ thuật Quân đội
+DKT - Đại Học Hải Dương
+SPS - Đại Học Sư Phạm TPHCM
+HCH - Học Viện Hành Chính Quốc Gia
+DLT - Đại Học Lao Động – Xã Hội (Cơ sở Sơn Tây)
+DLX - Đại Học Lao Động – Xã Hội (Cơ sở Hà Nội)
+DKK - Đại Học Kinh Tế Kỹ Thuật Công Nghiệp
+DVT - Đại Học Trà Vinh
+DPD - Đại Học Phương Đông
+QSY - Đại học Khoa học sức khỏe - Đại học Quốc Gia TPHCM
+DDN - Đại Học Đại Nam
+DBL - Đại Học Bạc Liêu
+LNS - Phân hiệu Đại Học Lâm nghiệp tại Đồng Nai
+LPH - Đại Học Luật Hà Nội
+TYS - Đại Học Y Khoa Phạm Ngọc Thạch
+CEA - Đại học Kinh Tế Nghệ An
+DTV - Đại Học Lương Thế Vinh
+TDD - Đại học Thành Đô
+DHH - Đại Học Hà Hoa Tiên
+DTB - Đại Học Thái Bình
+DVD - Đại Học Văn Hóa, Thể Thao Và Du Lịch Thanh Hóa
+SPH - Đại Học Sư Phạm Hà Nội
+YTC - Đại Học Y Tế Công Cộng
+QHY - Đại học Y Dược - Đại học Quốc Gia Hà Nội
+DDF - Đại Học Ngoại Ngữ – Đại Học Đà Nẵng
+LCH - Trường Sĩ Quan Chính Trị - Đại Học Chính Trị
+LAH - Trường Sĩ Quan Lục Quân 1 - Đại học Trần Quốc Tuấn
+YDD - Đại Học Điều Dưỡng Nam Định
+NLS - Đại Học Nông Lâm TPHCM
+DDY - Trường Y Dược – Đại Học Đà Nẵng
+BPH - Học Viện Biên Phòng
+DDP - Phân Hiệu Đại Học Đà Nẵng tại Kon Tum
+LDA - Đại Học Công Đoàn
+STS - Đại Học Sư Phạm Thể Dục Thể Thao TPHCM
+DCV - Đại học Công nghiệp Vinh
+DNU - Đại Học Đồng Nai
+HSU - Đại Học Hoa Sen
+PBH - Trường Sĩ Quan Pháo Binh
+LBH - Trường Sĩ Quan Lục Quân 2 - Đại học Nguyễn Huệ
+DMT - Đại học Tài Nguyên và Môi Trường Hà Nội
+HVQ - Học Viện Quản Lý Giáo Dục
+NHF - Đại Học Hà Nội
+DCH - Trường Sĩ Quan Đặc Công
+TGH - Trường Sĩ Quan Tăng - Thiết Giáp
+TTH - Trường Sĩ Quan Thông Tin - Hệ Quân sự - Đại Học Thông Tin Liên Lạc
+SNH - Trường Sĩ Quan Công Binh - Hệ Quân sự - Đại học Ngô Quyền
+NQH - Học Viện Khoa Học Quân Sự - Hệ Quân sự
+SKH - Đại Học Sư Phạm Kỹ Thuật Hưng Yên
+MHN - Đại Học Mở Hà Nội
+KTS - Đại Học Kiến Trúc TPHCM
+DTM - Đại học Tài Nguyên và Môi Trường TPHCM
+HYD - Học Viện Y Dược Học Cổ Truyền Việt Nam
+MTH - Đại Học Mỹ Thuật Việt Nam
+HQH - Học Viện Hải Quân
+HGH - Trường Sĩ Quan Phòng Hóa
+HEH - Học Viện Hậu Cần - Hệ Quân sự
+DCN - Đại Học Công Nghiệp Hà Nội
+DPY - Đại Học Phú Yên
+XDT - Đại Học Xây Dựng Miền Trung
+YHB - Đại Học Y Hà Nội
+UKB - Đại Học Kinh Bắc
+TQU - Đại học Tân Trào
+SDU - Đại học Sao Đỏ
+YKV - Đại Học Y Khoa Vinh
+VHH - Đại Học Văn Hóa Hà Nội
+DHC - Khoa Giáo Dục Thể Chất – Đại Học Huế
+DHN - Đại Học Nghệ Thuật – Đại Học Huế
+DHF - Đại Học Ngoại Ngữ – Đại Học Huế
+TDV - Đại Học Vinh
+NHS - Đại Học Ngân Hàng TPHCM
+DHQ - Phân Hiệu Đại Học Huế tại Quảng Trị
+DHA - Đại học Luật - Đại Học Huế
+DHD - Trường Du Lịch – Đại Học Huế
+DHK - Đại Học Kinh Tế – Đại Học Huế
+DHL - Đại Học Nông Lâm – Đại Học Huế
+DHS - Đại Học Sư Phạm – Đại Học Huế
+DHY - Đại Học Y Dược – Đại Học Huế
+DHT - Đại Học Khoa Học – Đại Học Huế
+DKS - Đại học Kiểm Sát Hà Nội
+SP2 - Đại Học Sư Phạm Hà Nội 2
+XDA - Đại Học Xây Dựng Hà Nội
+GNT - Đại Học Sư Phạm Nghệ Thuật Trung Ương
+TTN - Đại Học Tây Nguyên
+DTT - Đại Học Tôn Đức Thắng
+QSX - Đại Học Khoa Học Xã Hội và Nhân Văn – Đại Học Quốc Gia TPHCM
+IUH - Đại Học Công Nghiệp TPHCM
+DTD - Đại Học Tây Đô
+HTC - Học Viện Tài Chính
+TDB - Đại Học Thể Dục Thể Thao Bắc Ninh
+NHP - Học Viện Ngân Hàng (Phân Viện Phú Yên)
+HQT - Học Viện Ngoại Giao
+VHS - Đại Học Văn Hóa TPHCM
+TMU - Đại Học Thương Mại
+NHH - Học Viện Ngân Hàng
+TDS - Đại Học Thể Dục Thể Thao TPHCM
+LNH - Đại Học Lâm nghiệp
+KTA - Đại Học Kiến Trúc Hà Nội
+QSK - Đại học Kinh Tế Luật – Đại Học Quốc Gia TPHCM
+MBS - Đại Học Mở TPHCM
+NTU - Đại Học Nguyễn Trãi
+DCT - Đại Học Công Thương TPHCM
+TSN - Đại Học Nha Trang
+DQB - Đại Học Quảng Bình
+DQN - Đại Học Quy Nhơn
+FBU - Đại Học Tài Chính Ngân Hàng Hà Nội
+DFA - Đại học Tài chính Quản trị kinh doanh
+CCM - Đại Học Công Nghiệp Dệt May Hà Nội
+YPB - Đại Học Y Dược Hải Phòng
+DKY - Đại Học Kỹ Thuật Y Tế Hải Dương
+DLH - Đại Học Lạc Hồng
+TTB - Đại Học Tây Bắc
+MDA - Đại Học Mỏ Địa Chất
+DLA - Đại Học Kinh Tế Công Nghiệp Long An
+MTC - Đại Học Mỹ Thuật Công Nghiệp
+QHF - Đại Học Ngoại Ngữ – Đại Học Quốc Gia Hà Nội
+QHL - Đại học Luật – Đại Học Quốc Gia Hà Nội
+DLS - Đại Học Lao Động – Xã Hội (Cơ sở phía Nam)
+QST - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia TPHCM
+HHK - Học Viện Hàng không Việt Nam
+DDU - Đại Học Đông Đô
+DQK - Đại Học Kinh Doanh và Công Nghệ Hà Nội
+DMS - Đại Học Tài Chính Marketing
+KHA - Đại Học Kinh Tế Quốc Dân
+SGD - Đại Học Sài Gòn
+THP - Đại Học Hải Phòng
+VPH - Trường Sĩ Quan Kĩ Thuật Quân Sự - Hệ Quân sự - Đại Học Trần Đại Nghĩa
+PKH - Học Viện Phòng Không – Không Quân
+TAG - Đại Học An Giang - Đại học Quốc gia TPHCM
+SKN - Đại Học Sư Phạm Kỹ Thuật Nam Định
+BVS - Học Viện Công Nghệ Bưu Chính Viễn Thông (Phía Nam)
+DDL - Đại Học Điện Lực
+HCP - Học Viện Chính Sách và Phát Triển
+DPQ - Đại Học Phạm Văn Đồng
+SKV - Đại Học Sư Phạm Kỹ Thuật Vinh
+YCT - Đại Học Y Dược Cần Thơ
+DDM - Đại Học Công Nghiệp Quảng Ninh
+BVH - Học Viện Công Nghệ Bưu Chính Viễn Thông (Phía Bắc)
+KSA - Đại Học Kinh Tế TPHCM
+BKA - Đại Học Bách Khoa Hà Nội
+HBT - Học viện Báo chí và Tuyên truyền
+VHD - Đại Học Công Nghiệp Việt Hung
+QSB - Đại Học Bách Khoa – Đại Học Quốc Gia TPHCM
+KCC - Đại học Kỹ Thuật Công Nghệ Cần Thơ
+KMA - Học Viện Kỹ Thuật Mật Mã
+UFA - Đại học Tài Chính Kế Toán
+DCD - Đại Học Công Nghệ Đồng Nai
+GHA - Đại Học Giao Thông Vận Tải (Cơ sở Phía Bắc)
+TCT - Đại Học Cần Thơ
+DDQ - Đại Học Kinh Tế – Đại Học Đà Nẵng
+DNC - Đại học Nam Cần Thơ
+DDS - Đại Học Sư Phạm – Đại Học Đà Nẵng
+NTS - Đại học Ngoại thương (Cơ sở phía Nam)
+NTH - Đại học Ngoại thương (Cơ sở phía Bắc)
+HDT - Đại Học Hồng Đức
+DTC - Đại học Công Nghệ Thông Tin và Truyền Thông – Đại Học Thái Nguyên
+DTF - Trường Ngoại Ngữ – Đại Học Thái Nguyên
+DTS - Đại Học Sư Phạm - Đại Học Thái Nguyên
+DTZ - Đại Học Khoa Học – Đại Học Thái Nguyên
+DTE - Đại học Kinh tế Quản trị kinh doanh - Đại học Thái Nguyên
+DTK - Đại Học Kỹ Thuật Công Nghiệp – Đại Học Thái Nguyên
+DTN - Đại Học Nông Lâm – Đại Học Thái Nguyên
+DTY - Đại Học Y Dược – Đại Học Thái Nguyên
+DTQ - Khoa Quốc Tế - Đại Học Thái Nguyên
+YTB - Đại Học Y Dược Thái Bình
+PCH - Đại Học Phòng Cháy Chữa Cháy (Phía Bắc)
+PCS - Đại Học Phòng Cháy Chữa Cháy (phía Nam)
+HHA - Đại Học Hàng Hải Việt Nam
+DBH - Đại Học Quốc Tế Bắc Hà
+KQH - Học Viện Kỹ Thuật Quân Sự - Hệ Quân sự
+TDL - Đại Học Đà Lạt
+DKC - Đại học Công Nghệ TPHCM
+DKH - Đại Học Dược Hà Nội
+GTS - Đại Học Giao Thông Vận Tải TPHCM
+THV - Đại Học Hùng Vương
+MTU - Đại Học Xây Dựng Miền Tây
+VLU - Đại Học Sư Phạm Kỹ Thuật Vĩnh Long
+QSC - Đại Học Công Nghệ Thông Tin – Đại Học Quốc Gia TPHCM
+DTL - Đại Học Thăng Long
+LPS - Đại Học Luật TPHCM
+DQU - Đại Học Quảng Nam
+VUI - Đại Học Công Nghiệp Việt Trì
+PKA - Đại Học Phenikaa
+GSA - Đại Học Giao Thông Vận Tải (Cơ sở Phía Nam)
+TDM - Đại học Thủ Dầu Một
+HVA - Học Viện Âm Nhạc Huế
+QSQ - Đại Học Quốc Tế – Đại Học Quốc Gia TPHCM
+YQH - Học Viện Quân Y - Hệ Quân sự
+DDK - Đại Học Bách Khoa – Đại Học Đà Nẵng
+QHE - Đại Học Kinh Tế – Đại Học Quốc Gia Hà Nội
+QHI - Đại Học Công Nghệ – Đại Học Quốc Gia Hà Nội
+QHS - Đại Học Giáo Dục - Đại học Quốc Gia Hà Nội
+QHT - Đại Học Khoa Học Tự Nhiên – Đại Học Quốc Gia Hà Nội
+QHX - Đại Học Khoa Học Xã Hội và Nhân Văn – Đại Học Quốc Gia Hà Nội
+TTG - Đại Học Tiền Giang
+SPK - Đại Học Sư Phạm Kỹ Thuật TPHCM
+KGH - Trường Sĩ Quan Không Quân - Hệ Đại học
+SKD - Đại Học Sân Khấu Điện Ảnh Hà Nội
+YDS - Đại Học Y Dược TPHCM
+DNV - Đại học Nội vụ Hà Nội
+DCA - Đại Học Chu Văn An
+HCS - Học Viện Hành Chính Quốc Gia (phía Nam)
+TTD - Đại Học Thể Dục Thể Thao Đà Nẵng
+QHQ - Trường Quốc Tế – Đại Học Quốc Gia Hà Nội
+TDH - Đại Học Sư Phạm Thể Dục Thể Thao Hà Nội
+DBD - Đại Học Bình Dương
+DBG - Đại học Nông Lâm Bắc Giang
+DDA - Đại Học Công Nghệ Đông Á
+NTT - Đại Học Nguyễn Tất Thành
+TTU - Đại học Tân Tạo
+SPD - Đại Học Đồng Tháp
+HIU - Đại Học Quốc Tế Hồng Bàng
+ANH - Học Viện An Ninh Nhân Dân
+ANS - Đại Học An Ninh Nhân Dân
+BMU - Đại học Y Dược Buôn Ma Thuột
+BUV - Đại Học Anh Quốc Việt Nam
+BVU - Đại Học Bà Rịa – Vũng Tàu
+CIV - Học viện Công giáo Việt Nam
+CMC - Đại Học CMC
+CSH - Học Viện Cảnh Sát Nhân Dân
+CSS - Đại Học Cảnh Sát Nhân Dân
+DAD - Đại Học Đông Á
+DCL - Đại Học Cửu Long
+DCQ - Đại Học Công Nghệ và Quản Lý Hữu Nghị
+DDB - Đại Học Thành Đông
+DDG - Khoa Giáo dục thể chất - Đại học Đà Nẵng
+DDT - Đại Học Duy Tân
+DDV - Viện nghiên cứu và đào tạo Việt Anh - Đại học Đà Nẵng
+DHE - Khoa Kỹ thuật và Công nghệ - Đại học Huế
+DHI - Khoa Quốc tế - Đại học Huế
+DHV - Đại học Hùng Vương TPHCM
+DKB - Đại Học Kinh Tế Kỹ Thuật Bình Dương
+DNB - Đại Học Hoa Lư
+DNT - Đại Học Ngoại Ngữ Tin Học TPHCM
+DPC - Đại Học Phan Châu Trinh
+DPT - Đại Học Phan Thiết
+DPX - Đại Học Phú Xuân
+DSD - Đại Học Sân Khấu Điện Ảnh TPHCM
+DSG - Đại Học Công Nghệ Sài Gòn
+DSK - Đại học Sư phạm Kỹ thuật - Đại học Đà Nẵng
+DTG - Phân hiệu Đại học Thái Nguyên tại Hà Giang
+DTP - Phân Hiệu Đại Học Thái Nguyên Tại Lào Cai
+DVB - Đại Học Kinh tế công nghệ Thái Nguyên
+DVH - Đại Học Văn Hiến
+DVL - Đại Học Văn Lang
+DVP - Đại Học Trưng Vương
+DYD - Đại Học Yersin Đà Lạt
+EIU - Đại Học Quốc Tế Miền Đông
+ETU - Đại Học Hòa Bình
+FPT - Đại Học FPT
+GDU - Đại Học Gia Định
+GTA - Đại học Công nghệ Giao thông vận tải
+HCA - Học Viện Chính Trị Công An Nhân Dân
+HCB - Đại Học Kỹ Thuật - Hậu Cần Công An Nhân Dân (Phía Bắc)
+HCN - Đại Học Kỹ Thuật - Hậu Cần Công An Nhân Dân (Phía Nam)
+HHT - Đại Học Hà Tĩnh
+HLU - Đại Học Hạ Long
+HPN - Học Viện Phụ Nữ Việt Nam
+HPU - Đại học Quản lý và Công nghệ Hải Phòng
+HTA - Học viện Tòa án
+HTN - Học Viện Thanh Thiếu Niên Việt Nam
+HVC - Học viện cán bộ TPHCM
+HVD - Học Viện Dân Tộc
+HVN - Học Viện Nông Nghiệp Việt Nam
+KCN - Đại Học Khoa Học Và Công Nghệ Hà Nội
+KGC - Trường Sĩ Quan Không Quân - Hệ Cao đẳng
+KSV - Đại học Kinh Tế TPHCM - Phân hiệu Vĩnh Long
+KTD - Đại Học Kiến Trúc Đà Nẵng
+LBS - Đại học Nguyễn Huệ
+LCDF - Học viện Thiết kế và Thời trang London Hà Nội
+LNA - Phân hiệu Đại học Lâm nghiệp tỉnh Gia Lai
+MIT - Đại học Công nghệ Miền Đông
+NHB - Học Viện Ngân Hàng (Phân Viện Bắc Ninh)
+NLG - Phân hiệu Đại học Nông Lâm TPHCM tại Gia Lai
+NLN - Phân hiệu Đại học Nông Lâm TPHCM tại Ninh Thuận
+NVH - Học Viện Âm Nhạc Quốc Gia Việt Nam
+NVS - Nhạc Viện TPHCM
+PVU - Đại Học Dầu Khí Việt Nam
+QHD - Trường Quản Trị và Kinh Doanh - ĐH Quốc gia Hà Nội
+QHK - Trường Khoa học liên ngành và Nghệ thuật - Đại học Quốc gia Hà Nội
+QSP - Phân hiệu Đại học Quốc gia TPHCM tại Bến Tre
+RHM - Đại Học Răng – Hàm – Mặt
+RMU - Đại Học Quốc Tế RMIT Việt Nam
+SIU - Đại Học Quốc Tế Sài Gòn
+TBD - Đại Học Thái Bình Dương
+THU - Đại học Y khoa Tokyo Việt Nam
+TKG - Đại học Kiên Giang
+TLA - Đại Học Thủy Lợi (Cơ sở 1)
+TLS - Đại Học Thủy Lợi (Cơ sở 2)
+UEF - Đại Học Kinh Tế Tài Chính TPHCM
+UKH - Đại học Khánh Hòa
+UMT - Đại học Quản lý và công nghệ TPHCM
+VGU - Đại Học Việt Đức
+VJU - Đại học Việt Nhật - Đại học Quốc gia Hà Nội
+VTT - Đại Học Võ Trường Toản
+XDN - Phân hiệu Đại học Xây dựng miền Trung tại Đà Nẵng
+YHT - Phân hiệu Đại học Y Hà Nội tại Thanh Hóa
